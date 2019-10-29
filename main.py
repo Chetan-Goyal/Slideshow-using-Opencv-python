@@ -107,6 +107,7 @@ def main():
     1.  'a' for previous picture
     2.  'd' for next picture
     3.  's' to pause the slideshow
+    4.  'q' to exit the slideshow
     ''')
 
     slideshow()
